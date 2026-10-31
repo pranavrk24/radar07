@@ -4,4 +4,4 @@
 
 <p align="center">NeoVim btw. Jujutsu btw. Oh, that's NixOS btw ...
 
-<p align="center"><img width="1000" src="workspace.png" /></p>
+<p align="center"><img width="1000" src="desktop.png" /></p>
